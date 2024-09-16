@@ -11,23 +11,23 @@ export declare const useColors: (invertProps?: boolean) => {
     info: string;
     rich: {
         success: {
-            foreground: string;
             background: string;
+            foreground: string;
             border: string;
         };
         error: {
-            foreground: string;
             background: string;
+            foreground: string;
             border: string;
         };
         warning: {
-            foreground: string;
             background: string;
+            foreground: string;
             border: string;
         };
         info: {
-            foreground: string;
             background: string;
+            foreground: string;
             border: string;
         };
     };
