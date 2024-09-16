@@ -1,5 +1,13 @@
 
 
+## [0.13.7](https://github.com/gunnartorfis/sonner-native/compare/v0.13.6...v0.13.7) (2024-09-16)
+
+
+### Bug Fixes
+
+* update colors ([9448ba3](https://github.com/gunnartorfis/sonner-native/commit/9448ba391e42afbfab957649edc73fd3ff90d958))
+* update colors ([fdd50e2](https://github.com/gunnartorfis/sonner-native/commit/fdd50e2840b56b8e3f87d16976f75e9f42afdbc4))
+
 ## [0.13.6](https://github.com/gunnartorfis/sonner-native/compare/v0.13.5...v0.13.6) (2024-09-16)
 
 
