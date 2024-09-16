@@ -1,5 +1,12 @@
 
 
+## [0.13.6](https://github.com/gunnartorfis/sonner-native/compare/v0.13.5...v0.13.6) (2024-09-16)
+
+
+### Bug Fixes
+
+* commit lib dir ([5ad5ded](https://github.com/gunnartorfis/sonner-native/commit/5ad5ded63d599eb372726586c0ef6b45c9f1e0e8))
+
 ## [0.13.5](https://github.com/gunnartorfis/sonner-native/compare/v0.13.4...v0.13.5) (2024-09-16)
 
 
